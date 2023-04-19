@@ -1,4 +1,4 @@
-## 🖥️   Tutorial pessoal como atualizar Google pelo terminal
+## 🖥️   Tutorial pessoal como atualizar Google pelo terminal!
 
 ```  bash
 sudo apt-get update        
